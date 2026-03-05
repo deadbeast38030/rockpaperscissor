@@ -1,3 +1,3 @@
-A Basic Rock paper Scissor Terminal based game 
+A Basic Rock paper Scissor Terminal based Game 
 Developed by "Manish Debnath".
 
